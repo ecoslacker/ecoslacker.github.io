@@ -1,16 +1,23 @@
 ---
 layout: page
 title: ecoslaker
-tagline: Coding adventures
+tagline: Programming adventures
 ---
 {% include JB/setup %}
 
 ## Welcome to ecoslacker's website
 
-Here you can find some of my adventures in programming and coding.
+This website is about my personal projects in programming.
     
-## Github
+### My Github
 
-I have a github profile where you can find some of my software...
+Most of my programming stuff is uploaded in my Github account:
+[ecoslacker](http://www.github.com/ecoslacker)
+You can download and test anything you want.
+
+### My Slackware Linux Blog
+
+You can follow my blog about Slackware Linux at: 
+[SlackBlog](http://www.ecoslackware.wordpress.com)
 
 
