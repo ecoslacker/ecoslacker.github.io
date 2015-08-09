@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ecoslaker
+title: ecoslacker
 tagline: Programming adventures
 ---
 {% include JB/setup %}
