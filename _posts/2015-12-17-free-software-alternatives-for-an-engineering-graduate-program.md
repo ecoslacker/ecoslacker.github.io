@@ -2,7 +2,7 @@
 layout: post
 title: Free Software alternatives for an engineering graduate program
 ---
-![matlab]({{ site.baseurl }}/images/matlab_logo_L50.png)
+![matlab]({{ site.baseurl }}/images/matlab.png)
 
 If you read previous posts in this blog you should know I'm studying my master in agricultural engineering at Chapingo University. And this first year was so thrilling!
 
