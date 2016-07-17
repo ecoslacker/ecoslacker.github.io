@@ -1,3 +1,8 @@
+---
+layout: post
+title: End of first semester
+---
+
 In august of this year I started a new stage in my life because I enter to the <a href="http://portal.chapingo.mx/iauia/" target="_blank">agricultural engineering master program</a> at Chapingo University, and this december I'm ending the first semester. I have to say it wasn't easy.
 
 I finished my BSc studies by 2010 and I have been working about five years. So it was difficult to start taking classes again, studying, going to the library and doing homework. I think the most difficult part was to change habits, because after work I got home and rest, now I have to go to bed so late in the night because of my homework and research topic.
