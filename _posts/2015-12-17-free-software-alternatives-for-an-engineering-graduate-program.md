@@ -2,6 +2,8 @@
 layout: post
 title: Free Software alternatives for an engineering graduate program
 ---
+![matlab]({{ site.baseurl }}/images/matlab_logo_L50.png)
+
 If you read previous posts in this blog you should know I'm studying my master in agricultural engineering at Chapingo University. And this first year was so thrilling!
 
 But there was a problem for me, some professors use proprietary software in their classes. For example two of the most used programs are Matlab and Mathematica. I have to confess that I bought those programs with some guilt because I consider myself an enthusiast of the free/open source software. I used them on Linux and their performance was excellent even better than other people whom used Windows.
