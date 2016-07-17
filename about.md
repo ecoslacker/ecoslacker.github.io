@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a master student of agricultural enginnering. Yeah that has nothing to do with software developing or linux, but those are very useful tools for my profession and I like it. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can find more about me in these sites: [gravatar](https://en.gravatar.com/eddojh) [github](https://github.com/ecoslacker) [wp.com](https://ecoslackware.wordpress.com/) [irriapps.com](http://www.irriapps.com/)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ecoslacker@irriapps.com](mailto:ecoslacker@irriapps.com)
