@@ -2,8 +2,10 @@
 layout: post
 title: A Linux user in engineering work
 ---
-As you may know by now, I am kind of a free software enthusiast and a proud Linux user. I'm an engineer and a master student. I used to make a life working in geographic information systems (GIS) related projects, hydrology, and  other stuff. I don't know in other work fields of engineering, but at least in my experience is very difficult to be a Linux user. I mean is very difficult to work when you are in a teamwork with people that uses a lot of proprietary software.
+As you may know by now, I am kind of a free software enthusiast and a proud Linux user. I'm an engineer and a master student. I used to make a life working in geographic information systems (GIS) related projects, hydrology, and  other stuff. 
 ![linux_user]({{ site.baseurl }}/images/working1.jpg)
+
+I don't know in other work fields of engineering, but at least in my experience is very difficult to be a Linux user. I mean is very difficult to work when you are in a teamwork with people that uses a lot of proprietary software.
 
 Some specific reasons are, there aren't a lot of options to edit a DWG file from the latest version of AutoCAD or a MXD file from an ArcMap project. Some times I had trouble handling huge reports made in Microsoft Word with LibreOffice; among other stuff.
 
