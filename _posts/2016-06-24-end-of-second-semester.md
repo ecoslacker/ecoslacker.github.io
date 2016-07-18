@@ -2,7 +2,7 @@
 layout: post
 title: End of second semester
 ---
-Well as you may know I'm an engineering student at Chapingo University in Mexico. At the time I am finishing my second semester of the master degree. It has been a very exciting time and not so easy.
+Well as you may know I'm an engineering student at Chapingo University in Mexico. At the time I am finishing my second semester of the master degree. It has been a very exciting time and not so easy. 
 ![calculadora]({{ site.baseurl }}/images/calculator1.jpg)
 
 Every engineering requires a very well understanding of math, particularly this program requires statistics and programming.
