@@ -2,7 +2,7 @@
 layout: post
 title: End of first semester
 ---
-In august of this year I started a new stage in my life because I enter to the <a href="http://portal.chapingo.mx/iauia/" target="_blank">agricultural engineering master program</a> at Chapingo University, and this december I'm ending the first semester. I have to say it wasn't easy.
+In august of this year I started a new stage in my life because I enter to the <a href="http://portal.chapingo.mx/iauia/" target="_blank">agricultural engineering master program</a> at Chapingo University, and this december I'm ending the first semester. I have to say it wasn't easy, instead it was very challenging.
 
 ![calculadora]({{ site.baseurl }}/images/calculator.jpg)
 
