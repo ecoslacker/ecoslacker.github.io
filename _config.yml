@@ -2,7 +2,7 @@
 title:               ecoslacker
 tagline:             'Programming and Linux ramblings'
 description:         'I am a PhD student of Biosystems Engineering, in this site I describe how I manage to work with Linux'
-url:                 https://github.com/ecoslacker
+url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
