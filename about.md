@@ -1,16 +1,29 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
-I'm an irrigation engineer from Chapingo University (Mexico). I consider programming as my main hobby because I learned by myself. Currently I'm a master student of agricultural engineering.
 
-I believe in the free culture that is why I started my way to become a hacker when I was younger. Now I identify myself as an enthusiast of projects like Free Software, Open Source, Wikipedia, GNU/Linux, Arduino, Raspberry Pi and many others. I have to make clear that I'm more attracted by the technical than the philosophical part of it.
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-### More Information
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-You can find more about me in: [github](https://github.com/ecoslacker), [wp.com](https://ecoslackware.wordpress.com/) and [irriapps.com](http://www.irriapps.com/).
+There are currently two themes built on Poole:
 
-### Contact me
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-[ecoslacker@irriapps.com](mailto:ecoslacker@irriapps.com)
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](https://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Atom](https://atom.io)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
